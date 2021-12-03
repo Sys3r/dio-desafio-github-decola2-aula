@@ -1,3 +1,40 @@
 Links : https://git-scm.com/downloads
 
 O Git Bash é um terminal estendido para otimizar o uso do GIT.
+============================================================================
+				RESUMO
+	- Introdução ao Git:
+		Sistema criado por Linus Torvalds, em 2005 , para versionamento de código distribuído.
+
+		O GitHub é uma empresa da Microsoft. O Git e GitHub são complementares, mas são tecnologias diferentes. Além disso, há outras tecnologias que trabalham com versionamento e hospedagem de códigos.
+
+
+	- GUI x CLI:
+		O Git é um software que o design dele é feito como command-line interface ( CLI) ou seja, ele não tem interface gráfica.
+	
+	Comandos Windows:	Unix:
+		- cd		- cd
+		- dir		-Ls
+		- mkdir		- mkdir
+		- del/rmdir	- rm -rf
+	
+	O terminal do Windows é derivado do Shell e o terminal do Linux é derivado do Bash.
+
+	Windows: 
+
+	dir - Lista de diretórios;
+	cd / ou cd ..( change directory) - Comando para navegar entre as pastas;
+	cls - Clear Screen - Limpar terminal windows;
+	TAB - Função de autocompletar;
+	mkdir - Make directory - Criar uma pasta;
+	echo - printa de volta um texto;
+	> - direcionador de fluxo;
+	del - delete;
+	rmdir /S /Q - Remove directory - remove todo repositório.
+
+	- Fundamentos do Git
+		SHA1 - Algoritmo de criptografia
+		Objetos fundamentais
+		Sistema distribuído
+		Segurança
+

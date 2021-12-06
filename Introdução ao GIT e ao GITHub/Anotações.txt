@@ -32,9 +32,4 @@ O Git Bash é um terminal estendido para otimizar o uso do GIT.
 	del - delete;
 	rmdir /S /Q - Remove directory - remove todo repositório.
 
-	- Fundamentos do Git
-		SHA1 - Algoritmo de criptografia
-		Objetos fundamentais
-		Sistema distribuído
-		Segurança
-
+	
